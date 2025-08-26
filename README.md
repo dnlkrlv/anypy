@@ -15,6 +15,14 @@ mv anypy /usr/local/bin/anypy
 
 ## Usage
 
+### General
+
+```bash
+anypy <version> <python-command>
+```
+
+### Example
+
 ```bash
 anypy 3.10.0 python --version
 ```
